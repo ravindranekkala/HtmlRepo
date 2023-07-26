@@ -1,0 +1,20 @@
+input tags
+1.text
+2.number
+3.tel
+4.password
+5.email
+6.radio
+7.checkbox
+8.date
+9.file
+10.rane
+11.color
+12.submit
+13.reset
+14.button
+15.textarea
+
+some external attributes:-
+value,readonly,disabled,maxlength,placeholder,required,autofocus,autocomplete
+<marquee > this the marquee tag for marquee the data</marquee> is used to scroll the informatlon on the web page.
